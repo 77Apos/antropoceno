@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: black;
+    color: white;
+    font-family: Impact, sans-serif;
+
+}
+
+.letra{
+
+}
+
+
+.fundo{ 
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+#word-container {
+    position: absolute;
+    text-align: center;
+    font-size: 150px;
+    color: white;
+    z-index: 999;
+}
+
+.figure {
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+.figure1{
+    width:
+    height: 
+    position: relative;
+        
+}
+
+.figure2{
+
+    position: relative;
+   
+}
+
+.figure3{
+
+     position: relative;
+ 
+}
+
+.figure4{
+
+    position: relative;
+
+}
+
+.figure5{
+
+    position: relative;
+
+}
+
+.figure6{
+
+    position: relative;
+
+
+
